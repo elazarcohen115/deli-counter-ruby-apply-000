@@ -8,6 +8,5 @@ else
   katz_deli.each do |person|
     print "#{counter}.#{person} "
     counter += 1
-
   end
 end
